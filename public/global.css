@@ -4,6 +4,13 @@ html, body {
 	height: 100%;
 }
 
+main {
+	text-align: center;
+	padding: 1em;
+	max-width: 240px;
+	margin: 0 auto;
+}
+
 body {
 	color: #333;
 	margin: 0;
