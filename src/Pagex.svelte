@@ -5,6 +5,11 @@
     import Add from "./Addnumber.svelte";
     import If from "./Ifs.svelte";
     import If2 from "./Ifs2.svelte";
+    import Loop from "./Loop.svelte";
+    import Promise from "./Promise.svelte";
+    import Dome from "./DOMevent.svelte";
+    import Bind from "./Bind.svelte";
+    import Bind2 from "./Bind2.svelte";
 </script>
 
 <main>
@@ -18,5 +23,10 @@
     <Add/>
     <If/>
     <If2 x={12}/>
+    <Loop/>
+    
+    <Dome/>
+    <Bind/>
+    <Bind2 />
 
 </main>
