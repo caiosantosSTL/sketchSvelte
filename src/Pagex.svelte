@@ -14,6 +14,7 @@
     import OnMount from "./onMount.svelte";
     import Trans1 from "./Trans1.svelte";
     import Trans2 from "./Trans2.svelte";
+    import Trans3 from "./Trans3.svelte";
 
 
 </script>
@@ -38,5 +39,6 @@
     <OnMount/>
     <Trans1/>
     <Trans2/>
+    <Trans3/>
 
 </main>
