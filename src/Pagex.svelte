@@ -10,6 +10,12 @@
     import Dome from "./DOMevent.svelte";
     import Bind from "./Bind.svelte";
     import Bind2 from "./Bind2.svelte";
+    import Bind3 from "./Bind3.svelte";
+    import OnMount from "./onMount.svelte";
+    import Trans1 from "./Trans1.svelte";
+    import Trans2 from "./Trans2.svelte";
+
+
 </script>
 
 <main>
@@ -28,5 +34,9 @@
     <Dome/>
     <Bind/>
     <Bind2 />
+    <Bind3 />
+    <OnMount/>
+    <Trans1/>
+    <Trans2/>
 
 </main>
